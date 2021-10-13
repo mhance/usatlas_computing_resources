@@ -1,13 +1,13 @@
 ---
-title: "Introduction"
+title: "LOCALGROUPDISK"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "How can I store my grid outputs?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Learn how to use LOCALGROUPDISKs."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "With the proper grid roles, you can use US disk storage for your rucio datasets."
 ---
 FIXME
 
