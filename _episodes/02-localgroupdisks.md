@@ -9,7 +9,8 @@ objectives:
 keypoints:
 - "With the proper grid roles, you can use US disk storage for your rucio datasets."
 ---
-FIXME
+
+Go to the [LCG VOMS page](https://lcg-voms2.cern.ch:8443/voms/atlas).  
 
 {% include links.md %}
 

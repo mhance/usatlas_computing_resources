@@ -40,5 +40,7 @@ The University of Chicago Shared Tier-3 is the Analysis Facility we're using for
 
 # Shared Tier-3's in the US
 
+[US-ATLAS Shared Tier-3 Documentation](https://usatlas.readthedocs.io/projects/af-docs/en/latest/)
+
 {% include links.md %}
 
