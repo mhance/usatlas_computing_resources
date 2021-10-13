@@ -13,7 +13,7 @@ walk through some of the resources US-ATLAS provides, and how to take advantage 
 
 > ## Prerequisites
 >
-> It is helpful, though not required, to have a grid certificate.  If you haven't done that, follow the instructions [here](https://twiki.cern.ch/twiki/bin/view/AtlasComputing/WorkBookStartingGrid)
+> It is helpful to have a grid certificate (but not required, except for the module on LOCALGROUPDISKs).  If you don't have a grid certificate, you can follow the instructions [here](https://twiki.cern.ch/twiki/bin/view/AtlasComputing/WorkBookStartingGrid) to get one.
 {: .prereq}
 
 {% include links.md %}
