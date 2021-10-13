@@ -25,5 +25,20 @@ Our focus will be on the Tier-3's, which are most effectively used for processin
 
 ![image info](./../fig/analysis_workflow.png)
 
+In the US, a lot of institutions have mini-clusters with access restricted to institutional users.  These were especially common in the early days of ATLAS, but as that hardware aged, the facilities became increasingly challenging to maintain and grow to support the needs of today's analyzers.
+
+In response to this, US-ATLAS has set up three shared facilities, where any US-ATLAS user can get access to computing resources that go well beyond what a single institute would commonly provide.  All shared tier-3's include (or will include):
+
+- Interactve login nodes for software development
+- Access to at least 1000 CPU cores per site in a batch system
+- Access to large amounts of local storage
+- Access to GPU's
+- Jupyter notebook support
+- 
+
+The University of Chicago Shared Tier-3 is the Analysis Facility we're using for this bootcamp, so you should already have access to a Shared tier-3!
+
+# Shared Tier-3's in the US
+
 {% include links.md %}
 
