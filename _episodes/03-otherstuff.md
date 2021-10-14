@@ -10,13 +10,10 @@ keypoints:
 - "Traditional and non-traditional computing models welcome!"
 ---
 
----
-# ATLAS ML Platform
+[//]: # (ATLAS ML Platform)
+[//]: # (The [ATLAS ML Platform](https://www.atlas-ml.org/) is hosted at the University of Chicago and offers hardware and software to support machine learning projects:)
+[//]: # (![image info](./../fig.ML_platform.png))
 
-The [ATLAS ML Platform](https://www.atlas-ml.org/) is hosted at the University of Chicago and offers hardware and software to support machine learning projects:
-
-![image info](./../fig.ML_platform.png)
----
 
 # Amazon EC2 analysis facility
 
