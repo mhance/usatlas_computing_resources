@@ -1,6 +1,6 @@
 ---
 title: "US-ATLAS Shared Tier-3's"
-teaching: 2
+teaching: 10
 exercises: 0
 questions:
 - "What computing resources does US-ATLAS offer?"
