@@ -16,8 +16,8 @@ Go to the [LCG VOMS page](https://lcg-voms2.cern.ch:8443/voms/atlas):
 
 In the "Your groups and roles" section, request membership for the `/atlas/usatlas` role.  It may take a few days to be approved, but once it is then you have access to grid storage in the US!  This means you can store your datasets in US LOCALGROUPDISK endpoints.  This is nice, because:
 
-# otherwise your user data on the grid will be deleted fairly soon after you make it (on the assumption that you've downloaded it to local storage already).  On the other hand, if it's in a LOCALGROUPDISK, it never expires.
-# the Shared Tier-3's can read data directly from their own LOCALGROUPDISKs, without needing to download the data manually.
+1. otherwise your user data on the grid will be deleted fairly soon after you make it (on the assumption that you've downloaded it to local storage already).  On the other hand, if it's in a LOCALGROUPDISK, it never expires.
+2. the Shared Tier-3's can read data directly from their own LOCALGROUPDISKs, without needing to download the data manually.
 
 Once you have that role, the next step is to request that your favorite datasets be replicated on a LOCALGROUPDISK.  Navigate to the R2D2 page: [https://rucio-ui.cern.ch/r2d2](https://rucio-ui.cern.ch/r2d2/request)
 
