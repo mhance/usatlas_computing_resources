@@ -40,7 +40,24 @@ The University of Chicago Shared Tier-3 is the Analysis Facility we're using for
 
 # Shared Tier-3's in the US
 
-[US-ATLAS Shared Tier-3 Documentation](https://usatlas.readthedocs.io/projects/af-docs/en/latest/)
+There are two other shared tier-3 facilities in the US: one at SLAC National Laboratory, the other at Brookhaven National Laboratory.
+
+- The BNL Tier-3 is part of a larger computing facility at the SDCC at BNL.
+-- ATLAS has priority for approximately 2000 cores available in a condor queue
+--- If the rest of the facility has free slots, then ATLAS jobs can spill over into an additional >30k cores 
+-- Users have access to 500 GB of disk space, plus an additional 5 TB of dCache space
+-- Interactive logins via shells
+-- Jupyter Notebooks: [https://jupyter.sdcc.bnl.gov/](https://jupyter.sdcc.bnl.gov/)
+--- More available as part of a shared filesystem (`pnfs`) for group work
+- The SLAC Tier-3 is also part of a shared pool at SLAC
+-- ATLAS has priority for ~1200 cores, potential access up to 15k cores
+-- 100 GB home space plus 2-10 TB for data
+-- Interactive logins via shells
+-- Jupyter Notebooks: [https://sdf.slac.stanford.edu/public/doc](https://sdf.slac.stanford.edu/public/doc/#/)
+
+Both facilities also allow users to access to GPU's for machine learning and likelihood fits.
+
+For more details, and procedures for signing up, see the [US-ATLAS Shared Tier-3 documentation](https://usatlas.readthedocs.io/projects/af-docs/en/latest/).
 
 {% include links.md %}
 
