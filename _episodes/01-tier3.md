@@ -57,7 +57,9 @@ There are two other shared tier-3 facilities in the US: one at SLAC National Lab
 
 Both facilities also allow users to access to GPU's for machine learning and likelihood fits.
 
-For more details, and procedures for signing up, see the [US-ATLAS Shared Tier-3 documentation](https://usatlas.readthedocs.io/projects/af-docs/en/latest/).
+It can take some time (weeks or months) to complete all the necessary steps to register at BNL or SLAC.  Suggest that you start now, and get the accounts before you think you might need them!
+
+For more details, see the [US-ATLAS Shared Tier-3 documentation](https://usatlas.readthedocs.io/projects/af-docs/en/latest/).
 
 {% include links.md %}
 
