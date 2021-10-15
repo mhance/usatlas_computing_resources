@@ -19,9 +19,13 @@ keypoints:
 
 A collaboration between the California State University system and Amazon has enabled ATLAS users to use Amazon EC2 resources for analysis work.  You can run jobs as though the EC2 resources were like a grid site, or treat it like a Tier-3 and run a scalable "local" analysis.  More info is available in some recent [summary slides](https://indico.cern.ch/event/1074645/contributions/4519525/attachments/2315730/3941993/WBS2.3By5-AWSPresentation.pdf).  If you are interested, there are setup instructions [here](https://twiki.cern.ch/twiki/bin/view/AtlasComputing/AWSSetupInstructions).  Please contact Harinder Singh Bawa <mailto:harinder.singh.bawa@gmail.com> for more details.
 
+![image info](./../fig/amazon_vpc.png)
+
 # Google
 
-Another collaboration between US-ATLAS and Google is exploring the use of Google resources for ATLAS analysis projects.  The project is explained in some [summary slides](https://docs.google.com/presentation/d/1zIK7darR42eIj1peNtbzS8yiyelG7UyCwtWPFvjaUSw/edit#slide=id.p).  If you are interested in participating here, contact Kaushik De <kaushik@uta.edu> and Alexei Klimentov <alexei.klimentov@cern.ch>, briefly describing what you want to do, how much resource (CPU time, storage) you need, and what kind of software you'll be running.
+Another collaboration between US-ATLAS and Google is exploring the use of Google resources for ATLAS analysis projects.  The project was explained in more depth at a recent [Technical Interchange Meeting](https://indico.cern.ch/event/1052638/).  If you are interested in participating here, contact Kaushik De <kaushik@uta.edu> and Alexei Klimentov <alexei.klimentov@cern.ch>, briefly describing what you want to do, how much resource (CPU time, storage) you need, and what kind of software you'll be running.
+
+![image info](./../fig/google_dask.png)
 
 {% include links.md %}
 
