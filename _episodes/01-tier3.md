@@ -19,7 +19,7 @@ ATLAS has "tiered" computing facilities:
 - Tier-0: CERN-hosted resources that perform first-pass processing of detector data.  Used for calibrations and initial event reconstruction.  Users do not run jobs here.
 - Tier-1: Several Tier-1's located throughout the world; in the US, we have a Tier-1 at Brookhaven National Lab.  Large facilities used for grid computing.  Used for both production jobs and user jobs.  No interactive access for users.
 - Tier-2: Many Tier-2's located throughout the world, several in the US.  From the user point of view, these are indistinguishable from Tier-1's.
-- Tier-3: Equivalent of institutional clusters.  Usually there is no grid access, and users need to be granted permission to access them.  They provide interactive access in addition to local batch clusters and storage.  (Similar to `lxplus` at CERN.)
+- Tier-3: Equivalent of institutional clusters.  Users need to be granted permission to access them.  They provide interactive access in addition to local batch clusters and storage.  (Similar to `lxplus` at CERN.)
 
 Our focus will be on the Tier-3's, which are most effectively used for processing flat ntuples:
 
@@ -30,11 +30,11 @@ In the US, a lot of institutions have mini-clusters with access restricted to in
 In response to this, US-ATLAS has set up three shared facilities, where any US-ATLAS user can get access to computing resources that go well beyond what a single institute would commonly provide.  All shared tier-3's include (or will include):
 
 - Interactve login nodes for software development
+- ATLAS software available via `setupATLAS`
 - Access to at least 1000 CPU cores per site in a batch system
 - Access to large amounts of local storage
 - Access to GPU's
 - Jupyter notebook support
-- 
 
 The University of Chicago Shared Tier-3 is the Analysis Facility we're using for this bootcamp, so you should already have access to a Shared tier-3!
 
